@@ -3,6 +3,8 @@ Mokoo-Responsive-Wordpress-Theme
 
 The Mokoo theme provides you the best online premium responsive wordpress theme with lots of features. Mokoo is loaded with options, and has powerful customization options. 
 
+theme url: http://themes.activetofocus.com/mokoo/
+support forum: http://support.activetofocus.com/mokoo/
 
 Premium Features
 - Clean, Responsive Design
